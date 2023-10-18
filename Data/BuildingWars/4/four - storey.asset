@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 655e8729091ab564b8d9f08ffae00918, type: 3}
+  m_Name: four - storey
+  m_EditorClassIdentifier: 
+  Floors:
+  - {fileID: 112079741424909225, guid: 6a2b105cdcaa0924fa44083c91e860b1, type: 3}
+  - {fileID: 7316507564837400580, guid: df034db57b6ac54498e5c078d3b7a3b5, type: 3}
+  - {fileID: 350957905651151846, guid: cb2b43fc8e1ac9d49a3ae9b9f3d9eaef, type: 3}
+  - {fileID: 2440111618437477917, guid: 40d577e3a67953a4b9543f9fdcbae044, type: 3}
+  isBroken: 0

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 655e8729091ab564b8d9f08ffae00918, type: 3}
+  m_Name: one - storey
+  m_EditorClassIdentifier: 
+  Floors:
+  - {fileID: 2044386636274866280, guid: 1a4b8ad09ca0e4342a9db6dacfa911e8, type: 3}
+  isBroken: 0
